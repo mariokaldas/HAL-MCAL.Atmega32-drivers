@@ -5,9 +5,9 @@ This project contains only .h & .c files (no application)
 
 CONTENTS:
 
-  * Memory mapped registers file using bit-field for Atmega32 *
+  * Memory mapped registers file using bit-field for Atmega32 
 
-  * Hardware Abstraction Layer drivers (HAL) * :
+  * Hardware Abstraction Layer drivers (HAL)  :
 1- Ultrasonic sensor
 2- Infrared sensor (IR sensor)
 3- Relays
@@ -19,7 +19,7 @@ CONTENTS:
 9- LCD (Data bit mode 4,8 are supported)
 10- LM35 temperature sensor
 
-  * Micro-controller Abstraction Layer drivers (MCAL) for Atmega32 * :
+  * Micro-controller Abstraction Layer drivers (MCAL) for Atmega32  :
 1- GPIO
 2- Timer1 (Normal mode, compare mode, PWM)
 3- ADC
